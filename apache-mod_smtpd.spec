@@ -24,7 +24,6 @@ Requires:	apache >= 2.0.55
 BuildRequires:	apache-devel >= 2.0.55
 BuildRequires:	file
 Epoch:		1
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 A SMTP protocol enabled module for apache 2.x based on qpsmtpd.
