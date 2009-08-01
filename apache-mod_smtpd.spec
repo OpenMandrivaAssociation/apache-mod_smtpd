@@ -8,7 +8,7 @@
 Summary:	A SMTP protocol enabled module for apache 2.x based on qpsmtpd
 Name:		apache-%{mod_name}
 Version:	0.9
-Release:	%mkrel 1.%{snap}.8
+Release:	%mkrel 1.%{snap}.9
 Group:		System/Servers
 License:	Apache License
 URL:		http://www.mail-archive.com/dev@httpd.apache.org/msg27099.html
