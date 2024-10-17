@@ -11,7 +11,7 @@ Version:	0.9
 Release:	1.%{snap}.13
 Group:		System/Servers
 License:	Apache License
-URL:		http://www.mail-archive.com/dev@httpd.apache.org/msg27099.html
+URL:		https://www.mail-archive.com/dev@httpd.apache.org/msg27099.html
 # http://svn.apache.org/repos/asf/httpd/mod_smtpd/trunk/
 Source0: 	%{mod_name}-%{version}-%{snap}.tar.bz2
 Source1:	%{mod_conf}.bz2
